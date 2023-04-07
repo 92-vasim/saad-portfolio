@@ -1,0 +1,1 @@
+console.log("Ejs template is running")
